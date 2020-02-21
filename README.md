@@ -37,8 +37,9 @@ S - Down
 D - Right
 ```
 Player 2 Controls :
-
+```
 ^ (Up Arrow Key) - Up
 < (Left Arrow Key)- Left
 v (Right Arrow Key)- Down
 > (Down Arrow Key)- Right
+```
